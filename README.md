@@ -1,2 +1,2 @@
 # Geography
-Sample coursework from my bachelor's in geography
+Coursework from my bachelor's in geography
